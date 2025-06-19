@@ -11,8 +11,8 @@ Authors@R: c(
 Description: Some data from the US EIA.
 Maintainer: Nicholas Pinder <nicholas.pinder@des.sc.gov>
 License: file LICENSE
-URL: https://github.com/capellett/EIAdata
-BugReports: https://github.com/capellett/EIAdata/issues
+URL: https://github.com/SCDES-Hydrology/EIAdata
+BugReports: https://github.com/SCDES-Hydrology/EIAdata/issues
 Depends: 
     R (>= 4.5)
 Imports: 
